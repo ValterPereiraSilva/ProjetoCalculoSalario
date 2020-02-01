@@ -1,0 +1,9 @@
+C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\bin\Debug\ProjetoCalculoSalario.exe.config
+C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\bin\Debug\ProjetoCalculoSalario.exe
+C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\bin\Debug\ProjetoCalculoSalario.pdb
+C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\obj\Debug\ProjetoCalculoSalario.csprojAssemblyReference.cache
+C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\obj\Debug\ProjetoCalculoSalario.CalculadoraSalario.resources
+C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\obj\Debug\ProjetoCalculoSalario.Properties.Resources.resources
+C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\obj\Debug\ProjetoCalculoSalario.csproj.GenerateResource.cache
+C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\obj\Debug\ProjetoCalculoSalario.exe
+C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\obj\Debug\ProjetoCalculoSalario.pdb
