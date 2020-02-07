@@ -107,8 +107,25 @@ namespace ProjetoCalculoSalario
 
         public void CalcularSalario()
         {
+            int year = DateTime.Now.Year;
+            int month = DateTime.Now.Month;
             int dias = int.Parse(txtDias.Text.ToString());
+            int mes = System.DateTime.DaysInMonth(year, month);
             double hora = double.Parse(txtSalarioBase.Text.ToString());
+            if (dias < 30)
+            {
+                dias = System.DateTime.DaysInMonth(year, month) + 1;
+
+            }
+            else if (dias > 30)
+            {
+                dias = System.DateTime.DaysInMonth(year, month) - 1;
+            }
+            else
+            {
+                dias = System.DateTime.DaysInMonth(year, month);
+            }
+            txtDias.Text = mes.ToString() ;
             txSalario.Text = (hora * dias * 7.33333).ToString("N2");
             txSalario.Enabled = false;
             txtSalarioBase.Enabled = false;

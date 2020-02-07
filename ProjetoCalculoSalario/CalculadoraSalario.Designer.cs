@@ -189,8 +189,10 @@
             // txtDSR
             // 
             this.txtDSR.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtDSR.ForeColor = System.Drawing.SystemColors.WindowText;
             this.txtDSR.Location = new System.Drawing.Point(205, 150);
             this.txtDSR.Name = "txtDSR";
+            this.txtDSR.ReadOnly = true;
             this.txtDSR.Size = new System.Drawing.Size(185, 20);
             this.txtDSR.TabIndex = 19;
             this.txtDSR.Text = "0";
@@ -1065,8 +1067,10 @@
             // txtDias
             // 
             this.txtDias.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtDias.ForeColor = System.Drawing.SystemColors.WindowText;
             this.txtDias.Location = new System.Drawing.Point(206, 72);
             this.txtDias.Name = "txtDias";
+            this.txtDias.ReadOnly = true;
             this.txtDias.Size = new System.Drawing.Size(184, 20);
             this.txtDias.TabIndex = 136;
             this.txtDias.Text = "0";

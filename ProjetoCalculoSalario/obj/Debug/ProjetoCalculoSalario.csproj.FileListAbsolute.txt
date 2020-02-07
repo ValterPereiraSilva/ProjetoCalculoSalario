@@ -7,3 +7,4 @@ C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\obj\Deb
 C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\obj\Debug\ProjetoCalculoSalario.csproj.GenerateResource.cache
 C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\obj\Debug\ProjetoCalculoSalario.exe
 C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\obj\Debug\ProjetoCalculoSalario.pdb
+C:\Users\Valter\source\repos\ProjetoCalculoSalario\ProjetoCalculoSalario\obj\Debug\ProjetoCalculoSalario.csproj.CoreCompileInputs.cache
